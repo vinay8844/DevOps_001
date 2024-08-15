@@ -3,3 +3,12 @@ banana
 orange
 watermelon
 mango
+
+birds
+hen
+parrot
+swan
+eagle
+vultures
+crows
+
