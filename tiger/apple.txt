@@ -3,3 +3,11 @@ banana
 orange
 watermelon
 mango
+
+lion
+giraffe
+deer
+hen 
+dog
+pig
+cow
