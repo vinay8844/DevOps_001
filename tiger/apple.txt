@@ -16,6 +16,7 @@ dog
 pig
 cow
 
+
 birds
 hen
 parrot
@@ -23,5 +24,10 @@ swan
 eagle
 vultures
 crows
+
+crocodile
+snake
+bear
+
 
 
